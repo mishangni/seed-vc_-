@@ -62,6 +62,7 @@ Then open the browser and go to `http://localhost:7860/` to use the web interfac
 - [ ] Code for training on custom data
 - [x] Changed to BigVGAN from NVIDIA for singing voice decoding
 - [ ] 44k Hz model for singing voice conversion of better quality
+- [ ] Evaluation metrics & comparison with previous models
 - [ ] More to be added
 
 ## CHANGELOGS🗒️
